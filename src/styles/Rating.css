@@ -1,0 +1,23 @@
+.Rating-stars {
+    fill: rgba(0, 0, 0, 0.2);
+    stroke: #d5a921;
+    height: 24px;
+    width: 160px;
+    margin-right: 1.6rem;
+    transform: translateY(0.4rem); }
+  
+  .star-1 {
+    fill: #d5a921; }
+  
+  .star-2 {
+    fill: #d5a921; }
+  
+  .star-3 {
+    fill: #d5a921; }
+  
+  .star-4 {
+    fill: #d5a921; }
+  
+  .star-5 {
+    fill: #d5a921; }
+  
