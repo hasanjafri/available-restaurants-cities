@@ -61,14 +61,16 @@ I think by design the API is pretty good, accepts certain query parameters as we
             "Psychology",
             "Basketball",
             "Gaming",
-            "Music"
+            "Music",
+            "Travelling" 
         ],
         "goals": [
             "Develop/design something that makes the lives of others easier or more convenient",
             "Dunk a basketball before I die",
             "Release a fun and popular mobile game",
             "Produce an instrumental track that gets featured on YouTube or used in montages/compilations",
-            "Get one of the most powerful PCs & Laptops that money can buy"
+            "Get one of the most powerful PCs & Laptops that money can buy",
+            "Explore the world"
         ],
         "beliefs": [
             "Never judge a book by it's cover",
